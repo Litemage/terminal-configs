@@ -2,6 +2,8 @@
 
 I'm currently using [Oh My Posh](https://ohmyposh.dev) for terminal styling in both Windows & Ubuntu
 
+The particular configuration I'm using was provided by a Oh My Posh on their [themes page](https://ohmyposh.dev/docs/themes#lambdageneration)
+
 # Fonts
 
 I use the [JetBrainsMono](https://www.nerdfonts.com/font-downloads) patched front from Nerd Fonts. Preview [here](https://www.programmingfonts.org/#jetbrainsmono).
